@@ -1,4 +1,4 @@
-# Design Pattern : Gang of Four (GOF)
+# Design Pattern : Topic
 
 ## Creational Patterns
 * Factory Pattern
@@ -6,6 +6,9 @@
 * Singleton Pattern
 * Builder Pattern
 * Prototype Pattern
+* Dependency Injection Pattern
+* Multition Pattern
+* Object Pool Pattern
 
 ## Structural Patterns
 * Adapter Pattern
@@ -16,6 +19,11 @@
 * Facade Pattern
 * Flyweight Pattern
 * Proxy Pattern
+* Extension Object Pattern
+* Font Controller Pattern
+* Marker Pattern
+* Module Pattern
+* Twin Pattern
 
 ## Behavioral Patterns
 * Chain of Responsibility Pattern
@@ -30,3 +38,5 @@
 * Strategy Pattern
 * Template Pattern
 * Visitor Pattern
+* Servant Pattern
+* Specification Pattern
