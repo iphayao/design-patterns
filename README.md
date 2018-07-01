@@ -1,7 +1,7 @@
 # Design Pattern : Topic
 
 ## Creational Patterns
-* Factory Pattern
+* Factory Method Pattern
 * Abstract Factory Pattern
 * Singleton Pattern
 * Builder Pattern
