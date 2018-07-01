@@ -6,6 +6,7 @@
 * Singleton Pattern
 * Builder Pattern
 * Prototype Pattern
+* Lazy Initailization Pattern
 * Dependency Injection Pattern
 * Multition Pattern
 * Object Pool Pattern
