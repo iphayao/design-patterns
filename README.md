@@ -1,5 +1,7 @@
 # Design Pattern : Topic
 
+[![Build Status](https://travis-ci.org/iphayao/design-pattern-wiki.svg?branch=master)](https://travis-ci.org/iphayao/design-pattern-wiki)
+
 ## Creational Patterns
 * Factory Method Pattern
 * Abstract Factory Pattern
