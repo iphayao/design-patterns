@@ -3,9 +3,9 @@
 [![Build Status](https://travis-ci.org/iphayao/design-pattern-wiki.svg?branch=master)](https://travis-ci.org/iphayao/design-pattern-wiki)
 
 ## Creational Patterns
-* Factory Method Pattern
-* Abstract Factory Pattern
-* Singleton Pattern
+* [Factory Method Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational)
+* [Abstract Factory Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/abstract-factory)
+* [Singleton Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/singleton)
 * Builder Pattern
 * Prototype Pattern
 * Lazy Initailization Pattern
