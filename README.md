@@ -6,16 +6,16 @@
 * [Factory Method Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational)
 * [Abstract Factory Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/abstract-factory)
 * [Singleton Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/singleton)
-* Builder Pattern
-* Prototype Pattern
+* [Builder Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/builder)
+* [Prototype Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/prototype)
 * Lazy Initailization Pattern
 * Dependency Injection Pattern
 * Multition Pattern
 * Object Pool Pattern
 
 ## Structural Patterns
-* Adapter Pattern
-* Bridge Pattern
+* [Adapter Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/structural/adapter)
+* [Bridge Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/structural/bridge)
 * Filter Pattern
 * Composite Pattern
 * Decorator Pattern
