@@ -21,7 +21,7 @@ public class DemoTest {
     @Test
     public void testFlyweightShapeFactoryGetCircle1() {
         Circle circleA = (Circle) ShapeFactory.getCircle("Red");
-        assertEquals("Creating circle of color: Red\r\n", outputStream.toString());
+        assertEquals("Creating circle of color: Red" + lineSeparator(), outputStream.toString());
     }
 
     @Test
