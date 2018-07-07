@@ -17,6 +17,7 @@
         <module>adapter</module>
         <module>bridge</module>
         <module>filter</module>
+        <module>composite</module>
     </modules>
 
 </project>
