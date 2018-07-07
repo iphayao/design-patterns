@@ -5,21 +5,21 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class DemoTest {
-    ShapeMaker shapeMaker = new ShapeMaker();
+    ShapeFacade shapeFacade = new ShapeFacade();
 
     @Test
-    public void testFacadeShapeMakerCircle() {
-        assertEquals("Circle::draw()", shapeMaker.drawCircle());
+    public void testFacadeShapeFacadeCircle() {
+        assertEquals("Circle::draw()", shapeFacade.drawCircle());
     }
 
     @Test
-    public void testFacadeShapeMakerRectangle() {
-        assertEquals("Rectangle::draw()", shapeMaker.drawRectangle());
+    public void testFacadeShapeFacadeRectangle() {
+        assertEquals("Rectangle::draw()", shapeFacade.drawRectangle());
     }
 
     @Test
-    public void testFacadeShapeMakerSquare() {
-        assertEquals("Square::draw()", shapeMaker.drawSquare());
+    public void testFacadeShapeFacadeSquare() {
+        assertEquals("Square::draw()", shapeFacade.drawSquare());
     }
 
 }

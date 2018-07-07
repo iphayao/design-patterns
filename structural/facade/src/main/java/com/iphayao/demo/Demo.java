@@ -2,10 +2,10 @@ package com.iphayao.demo;
 
 public class Demo {
     public static void main(String[] args) {
-        ShapeMaker shapeMaker = new ShapeMaker();
+        ShapeFacade shapeFacade = new ShapeFacade();
 
-        System.out.println(shapeMaker.drawCircle());
-        System.out.println(shapeMaker.drawRectangle());
-        System.out.println(shapeMaker.drawSquare());
+        System.out.println(shapeFacade.drawCircle());
+        System.out.println(shapeFacade.drawRectangle());
+        System.out.println(shapeFacade.drawSquare());
     }
 }

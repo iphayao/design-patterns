@@ -1,11 +1,11 @@
 package com.iphayao.demo;
 
-public class ShapeMaker {
+public class ShapeFacade {
     private Shape circle;
     private Shape rectangle;
     private Shape square;
 
-    public ShapeMaker() {
+    public ShapeFacade() {
         circle = new Circle();
         rectangle = new Rectangle();
         square = new Square();
