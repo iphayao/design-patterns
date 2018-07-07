@@ -20,6 +20,7 @@
         <module>composite</module>
         <module>decorator</module>
         <module>facade</module>
+        <module>flyweight</module>
     </modules>
 
 </project>
