@@ -6,6 +6,6 @@ public class Demo {
         User john = new User("John");
 
         robert.sendMessage("Hi! John!");
-        //john.sendMessage("Hello! Robert!");
+        john.sendMessage("Hello! Robert!");
     }
 }
