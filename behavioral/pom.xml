@@ -16,6 +16,7 @@
     <modules>
         <module>chain-of-responsibility</module>
         <module>interpreter</module>
+        <module>iterator</module>
     </modules>
 
 
