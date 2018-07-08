@@ -1,6 +1,6 @@
 # Design Pattern : Topic
 
-[![Build Status](https://travis-ci.org/iphayao/design-pattern-wiki.svg?branch=master)](https://travis-ci.org/iphayao/design-patterns)
+[![Build Status](https://travis-ci.org/iphayao/design-patterns.svg?branch=master)](https://travis-ci.org/iphayao/design-patterns)
 
 ## Creational Patterns
 * [Factory Method Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational) [GoF]
