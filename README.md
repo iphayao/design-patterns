@@ -1,6 +1,6 @@
 # Design Pattern : Topic
 
-[![Build Status](https://travis-ci.org/iphayao/design-pattern-wiki.svg?branch=master)](https://travis-ci.org/iphayao/design-pattern-wiki)
+[![Build Status](https://travis-ci.org/iphayao/design-pattern-wiki.svg?branch=master)](https://travis-ci.org/iphayao/design-patterns)
 
 ## Creational Patterns
 * [Factory Method Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational) [GoF]
@@ -18,10 +18,10 @@
 * [Bridge Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/structural/bridge) [GoF]
 * [Filter Pattern](https://github.com/iphayao/design-patterns/tree/master/structural/filter) [GoF]
 * [Composite Pattern](https://github.com/iphayao/design-patterns/tree/master/structural/composite) [GoF]
-* Decorator Pattern [GoF]
-* Facade Pattern [GoF]
-* Flyweight Pattern [GoF]
-* Proxy Pattern [GoF]
+* [Decorator Pattern](https://github.com/iphayao/design-patterns/tree/master/structural/decorator) [GoF]
+* [Facade Pattern](https://github.com/iphayao/design-patterns/tree/master/structural/facade) [GoF]
+* [Flyweight Pattern](https://github.com/iphayao/design-patterns/tree/master/structural/flyweight) [GoF]
+* [Proxy Pattern](https://github.com/iphayao/design-patterns/tree/master/structural/proxy) [GoF]
 * Extension Object Pattern
 * Font Controller Pattern
 * Marker Pattern
@@ -29,17 +29,17 @@
 * Twin Pattern
 
 ## Behavioral Patterns
-* Chain of Responsibility Pattern [GoF]
-* Command Pattern [GoF]
-* Interpreter Pattern [GoF]
-* Iterator Pattern [GoF]
-* Mediator Pattern [GoF]
-* Memento Pattern [GoF]
-* Observer Pattern [GoF]
-* State Pattern [GoF]
-* Strategy Pattern [GoF]
-* Visitor Pattern [GoF]
-* Template Pattern
+* [Chain of Responsibility Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/chain-of-responsibility) [GoF]
+* [Command Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/command) [GoF]
+* [Interpreter Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/interpreter) [GoF]
+* [Iterator Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/iterator) [GoF]
+* [Mediator Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/mediator) [GoF]
+* [Memento Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/memento) [GoF]
+* [Observer Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/observer) [GoF]
+* [State Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/state) [GoF]
+* [Strategy Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/strategy) [GoF]
+* [Visitor Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/visitor) [GoF]
+* [Template Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/template)
 * Null Object Pattern
 * Servant Pattern
 * Specification Pattern
