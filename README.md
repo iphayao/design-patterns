@@ -1,4 +1,4 @@
-# Design Pattern : Topic
+# Design Patterns : Topic
 
 [![Build Status](https://travis-ci.org/iphayao/design-patterns.svg?branch=master)](https://travis-ci.org/iphayao/design-patterns)
 
