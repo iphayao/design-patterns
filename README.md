@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/iphayao/design-patterns.svg?branch=master)](https://travis-ci.org/iphayao/design-patterns)
 
 ## Creational Patterns
-* [Factory Method Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational) [GoF]
+* [Factory Method Pattern](https://github.com/iphayao/design-patterns/tree/master/creational/abstract-factory) [GoF]
 * [Abstract Factory Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/abstract-factory) [GoF]
 * [Singleton Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/singleton) [GoF]
 * [Builder Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/builder) [GoF]
