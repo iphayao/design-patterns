@@ -20,6 +20,7 @@
         <module>builder</module>
         <module>prototype</module>
         <module>lazy-initialization</module>
+        <module>dependency-injection</module>
     </modules>
 
 </project>
