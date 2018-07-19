@@ -22,6 +22,7 @@
         <module>lazy-initialization</module>
         <module>dependency-injection</module>
         <module>multiton</module>
+        <module>object-pool</module>
     </modules>
 
 </project>
