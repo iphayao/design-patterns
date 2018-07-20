@@ -8,10 +8,10 @@
 * [Singleton Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/singleton) [GoF]
 * [Builder Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/builder) [GoF]
 * [Prototype Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/creational/prototype) [GoF]
-* Lazy Initailization Pattern
-* Dependency Injection Pattern
-* Multition Pattern
-* Object Pool Pattern
+* [Lazy Initailization Pattern](https://github.com/iphayao/design-patterns/tree/master/creational/lazy-initialization)
+* [Dependency Injection Pattern](https://github.com/iphayao/design-patterns/tree/master/creational/dependency-injection)
+* [Multition Pattern](https://github.com/iphayao/design-patterns/tree/master/creational/multiton)
+* [Object Pool Pattern](https://github.com/iphayao/design-patterns/tree/master/creational/object-pool)
 
 ## Structural Patterns
 * [Adapter Pattern](https://github.com/iphayao/design-pattern-wiki/tree/master/structural/adapter) [GoF]
