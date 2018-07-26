@@ -22,11 +22,6 @@
 * [Facade Pattern](https://github.com/iphayao/design-patterns/tree/master/structural/facade) [GoF]
 * [Flyweight Pattern](https://github.com/iphayao/design-patterns/tree/master/structural/flyweight) [GoF]
 * [Proxy Pattern](https://github.com/iphayao/design-patterns/tree/master/structural/proxy) [GoF]
-* Extension Object Pattern
-* Font Controller Pattern
-* Marker Pattern
-* Module Pattern
-* Twin Pattern
 
 ## Behavioral Patterns
 * [Chain of Responsibility Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/chain-of-responsibility) [GoF]
@@ -40,6 +35,4 @@
 * [Strategy Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/strategy) [GoF]
 * [Visitor Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/visitor) [GoF]
 * [Template Pattern](https://github.com/iphayao/design-patterns/tree/master/behavioral/template)
-* Null Object Pattern
-* Servant Pattern
-* Specification Pattern
+
